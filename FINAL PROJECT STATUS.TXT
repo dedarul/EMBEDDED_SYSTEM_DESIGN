@@ -1,0 +1,55 @@
+*************************************FINAL PROJECT WORK***************************************
+
+PROJECT WORKING PLAN:
+---------------------
+
+
+PROJECT WORKING PLAN:
+---------------------
+	# PROJECT PROPOSAL
+	# ALL CLASS LECTURES PRACTICES
+	# PCB DESIGN
+	# SIMULATION ON PUSH BUTTON DEMO PROJECT TEST
+	# HARDWARE DESIGN/FIRM WARE
+	# REPORT
+	# PROJECT LIVE
+	# DATA SHEET ALL ABOUT ATMEGA 32, SENSORS
+	# EQUIPMENT AT EXPERIMENT
+	#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************END*******************************************

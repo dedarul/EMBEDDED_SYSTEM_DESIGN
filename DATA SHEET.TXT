@@ -1,0 +1,55 @@
+
+----------------------------------------------DATA SHEET--------------------------------------------------------
+
+ATMEGA 32:
+**********
+The high-performance, low-power Atmel 8-bit AVR RISC-based microcontroller 
+combines 32KB of programmable flash memory, 2KB SRAM, 1KB EEPROM, an 8-channel 
+10-bit A/D converter, and a JTAG interface for on-chip debugging. The device 
+supports throughput of 16 MIPS at 16 MHz and operates between 4.5-5.5 volts.
+
+By executing instructions in a single clock cycle, the device achieves 
+throughputs approaching 1 MIPS per MHz, balancing power consumption and 
+processing speed.
+
+CPU:8 Bit AVR
+Flash:32 KBytes
+SRAM:2 KB
+Maximum I/O Pins:32
+Maximum Operating Frequency:16 MHz
+ADC:10 Bit
+Timers:3 Nos
+Operating Voltage:
+– 2.7V - 5.5V for ATmega32L
+– 4.5V - 5.5V for ATmega32
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
